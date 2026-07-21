@@ -1,7 +1,4 @@
 
-sd
-sd
-
 kh
 gjhkj
 hjkjlkdss
