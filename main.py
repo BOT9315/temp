@@ -1,4 +1,4 @@
-qwertyuiop[asdfghjkl;'zxcvbnm,.
+qwertyuiop[asdfghjkl
 sdfghjkbn
 zxcvbnm,asdf
 sdfghjkvb
