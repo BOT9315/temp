@@ -1,7 +1,6 @@
 qwertyuiop[asdfghjkl;'zxcvbnm,.
 sdfghjkbn
-zxcvbnm,asdfg
-dfghjb
+zxcvbnm,asdf
 sdfghjkvb
 xcvbn
 fghjkcvbn
