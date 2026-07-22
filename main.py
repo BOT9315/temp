@@ -1,1 +1,11 @@
-
+qwertyuiop[asdfghjkl;'zxcvbnm,.
+sdfghjkbn
+zxcvbnm,asdfg
+dfghjb
+sdfghjkvb
+sdfghjk
+xcvbn
+dfghjkxcvb
+fghjkcvbn
+dfcvbn
+dfghjvbn
