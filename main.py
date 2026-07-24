@@ -1,6 +1,4 @@
 asdfg
 fghj
-fgh
-
 gghjk
 
