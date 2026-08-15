@@ -4,7 +4,6 @@ ss
 
 s
 s
-s
 as
 ww
 
