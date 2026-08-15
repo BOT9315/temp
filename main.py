@@ -2,8 +2,7 @@ s
 s
 s
 s
-s
-as
+
 ww
 
 
