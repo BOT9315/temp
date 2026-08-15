@@ -8,7 +8,6 @@ ww
 
 
 w
-w
 sdx
 d
 
