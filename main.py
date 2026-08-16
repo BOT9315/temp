@@ -4,8 +4,7 @@ s
 s
 
 w
-sdx
-d
+sd
 
 
 
