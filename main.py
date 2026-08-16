@@ -1,7 +1,6 @@
 s
 s
 s
-s
 
 w
 sd
