@@ -11,8 +11,6 @@ d
 
 da
 sa
-
-s
 s
 s
 sd
