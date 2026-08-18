@@ -2,7 +2,6 @@
 as
 s
 s
-a
 
 asas
 
