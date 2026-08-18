@@ -1,8 +1,7 @@
 
 s
 as
-ssas
-
+ssa
 s
 as
 a
