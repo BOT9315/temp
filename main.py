@@ -1,6 +1,6 @@
 
 as
-ssa
+s
 s
 a
 
