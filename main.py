@@ -3,7 +3,6 @@ s
 as
 ssa
 s
-as
 a
 
 asas
