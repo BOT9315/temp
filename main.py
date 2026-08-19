@@ -4,6 +4,4 @@ t
 fr
 i
 oo
-iioo
-opio
-ooio
+i
