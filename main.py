@@ -5,7 +5,6 @@ s
 
 
 as
-aa
 s
 a
 
