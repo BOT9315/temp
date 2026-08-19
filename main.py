@@ -2,4 +2,4 @@ as
 s
 as
 a
-sa
+s
