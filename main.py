@@ -1,3 +1,9 @@
 as
 rt
 t
+fr
+i
+oo
+iioo
+opio
+ooio
