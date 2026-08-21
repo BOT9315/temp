@@ -1,1 +1,1 @@
-CSS is written in a separate .css file and connecte
+CSS is written in a separate .css file and connec
