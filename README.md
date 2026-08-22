@@ -7,8 +7,7 @@ Online C Compiler - Programiz
 
 Online Python Compiler
 Write and run your Python code using our online compiler. Enjoy additional features …
-Write and run HTML, CSS and JavaScript code using our online editor. Our HTML …
-
+Write and run HTML, CSS and JavaScript code using our online editor.
 Online Java
 Write and run your Java code using our online compiler. Enjoy additional features …
 
