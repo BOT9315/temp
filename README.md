@@ -1,1 +1,1 @@
-https://gith
+https://git
