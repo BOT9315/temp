@@ -6,7 +6,7 @@ Online C Compiler - Programiz
 // Online C compiler to run C program online #include <stdio.h> int main () { // Write C code here printf ("Start
 
 Online Python Compiler
-Write and run your Python code using our online compiler. Enjoy additional features …
+Write and run your Python code using our online compiler. Enjoy additio
 Write and run HTML, CSS and JavaScript code using our online editor.
 Online Java
 Write and run your Java code using our online compiler. Enjoy additional features …
