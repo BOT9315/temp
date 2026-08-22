@@ -2,7 +2,7 @@ htt
 Global web icon
 Programiz
 https://www.programiz.com › c-programming › online-compiler
-Online C Compiler - Programiz
+Online C Compiler - Pro
 // Online C compiler to run C program online #include <stdio.h> int main () { // Write C code here printf ("Start
 
 Online Python Compiler
