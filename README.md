@@ -1,1 +1,1 @@
-https://githu
+https://gith
